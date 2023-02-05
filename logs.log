@@ -1,0 +1,414 @@
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: getaddrinfo ENOTFOUND my.tofumc.pro."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"warn","message":"warn: Debug mode is enabled!"}
+{"level":"warn","message":"warn: Only enable this if you know what you are doing!"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: connect ETIMEDOUT 212.247.67.214:1141."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is disconnected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node is reconnecting."}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"warn","message":"warn: Debug mode is enabled!"}
+{"level":"warn","message":"warn: Only enable this if you know what you are doing!"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been created in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | Track has been started playing [\u001b[34mPSY - GANGNAM STYLE(강남스타일) M/V\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been destroyed in Derevnya debilov"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"warn","message":"warn: Debug mode is enabled!"}
+{"level":"warn","message":"warn: Only enable this if you know what you are doing!"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been created in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | Track has been started playing [\u001b[34mPSY - GANGNAM STYLE(강남스타일) M/V\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | Successfully paused the player"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | Successfully stopped the player"}
+{"level":"warn","message":"warn: Started the bot..."}
+{"level":"warn","message":"warn: Debug mode is enabled!"}
+{"level":"warn","message":"warn: Only enable this if you know what you are doing!"}
+{"level":"info","message":"info: Slash Command Loaded: 247"}
+{"level":"info","message":"info: Slash Command Loaded: autopause"}
+{"level":"info","message":"info: Slash Command Loaded: autoqueue"}
+{"level":"info","message":"info: Slash Command Loaded: clean"}
+{"level":"info","message":"info: Slash Command Loaded: clear"}
+{"level":"info","message":"info: Slash Command Loaded: filters"}
+{"level":"info","message":"info: Slash Command Loaded: guildleave"}
+{"level":"info","message":"info: Slash Command Loaded: help"}
+{"level":"info","message":"info: Slash Command Loaded: invite"}
+{"level":"info","message":"info: Slash Command Loaded: loop"}
+{"level":"info","message":"info: Slash Command Loaded: loopq"}
+{"level":"info","message":"info: Slash Command Loaded: lyrics"}
+{"level":"info","message":"info: Slash Command Loaded: move"}
+{"level":"info","message":"info: Slash Command Loaded: nowplaying"}
+{"level":"info","message":"info: Slash Command Loaded: pause"}
+{"level":"info","message":"info: Slash Command Loaded: ping"}
+{"level":"info","message":"info: Slash Command Loaded: play"}
+{"level":"info","message":"info: Slash Command Loaded: previous"}
+{"level":"info","message":"info: Slash Command Loaded: queue"}
+{"level":"info","message":"info: Slash Command Loaded: reload"}
+{"level":"info","message":"info: Slash Command Loaded: remove"}
+{"level":"info","message":"info: Slash Command Loaded: replay"}
+{"level":"info","message":"info: Slash Command Loaded: resume"}
+{"level":"info","message":"info: Slash Command Loaded: save"}
+{"level":"info","message":"info: Slash Command Loaded: search"}
+{"level":"info","message":"info: Slash Command Loaded: seek"}
+{"level":"info","message":"info: Slash Command Loaded: shuffle"}
+{"level":"info","message":"info: Slash Command Loaded: skip"}
+{"level":"info","message":"info: Slash Command Loaded: skipto"}
+{"level":"info","message":"info: Slash Command Loaded: stats"}
+{"level":"info","message":"info: Slash Command Loaded: stop"}
+{"level":"info","message":"info: Slash Command Loaded: summon"}
+{"level":"info","message":"info: Slash Command Loaded: volume"}
+{"level":"info","message":"info: ContextMenu Loaded: play"}
+{"level":"warn","message":"warn: Event Loaded: interactionCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageCreate"}
+{"level":"warn","message":"warn: Event Loaded: messageDelete"}
+{"level":"warn","message":"warn: Event Loaded: raw"}
+{"level":"warn","message":"warn: Event Loaded: ready"}
+{"level":"warn","message":"warn: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"info: Successfully Logged in as kyryuwa booth#2799"}
+{"level":"info","message":"info: Node: Main Node | Lavalink node is connected."}
+{"level":"warn","message":"warn: Node: Main Node | Lavalink node has an error: Unexpected op \"ready\" with data: [object Object]."}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been created in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been destroyed in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | A wild player has been created in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | Track has been started playing [\u001b[34mLana Del Rey - Doin' Time\u001b[39m]"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | [\u001b[34m24/7\u001b[39m] has been [\u001b[34mВКЛ\u001b[39m] in Derevnya debilov"}
+{"level":"warn","message":"warn: Player: 969532036454957096 | [\u001b[34m24/7\u001b[39m] has been [\u001b[34mВЫКЛ\u001b[39m] in Derevnya debilov"}
